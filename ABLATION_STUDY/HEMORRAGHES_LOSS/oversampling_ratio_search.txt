@@ -1,0 +1,141 @@
+Oversampling Ratio Search
+
+Ratio: (0.5, 0.3, 0.2)
+Epoch 001: Train Loss = 0.6382, Val Loss = 1.3613
+Epoch 002: Train Loss = 0.3387, Val Loss = 1.2032
+Epoch 003: Train Loss = 0.2629, Val Loss = 1.1977
+Epoch 004: Train Loss = 0.1697, Val Loss = 1.0745
+Epoch 005: Train Loss = 0.1184, Val Loss = 1.1158
+Epoch 006: Train Loss = 0.0886, Val Loss = 1.0399
+Epoch 007: Train Loss = 0.0756, Val Loss = 1.0109
+Epoch 008: Train Loss = 0.0661, Val Loss = 1.0178
+Epoch 009: Train Loss = 0.0586, Val Loss = 1.0162
+Epoch 010: Train Loss = 0.0541, Val Loss = 1.0569
+Epoch 011: Train Loss = 0.0532, Val Loss = 0.9974
+Epoch 012: Train Loss = 0.0476, Val Loss = 1.0238
+Epoch 013: Train Loss = 0.0473, Val Loss = 0.9696
+Epoch 014: Train Loss = 0.0456, Val Loss = 1.0204
+Epoch 015: Train Loss = 0.0455, Val Loss = 1.0200
+Epoch 016: Train Loss = 0.0431, Val Loss = 0.9638
+Epoch 017: Train Loss = 0.0420, Val Loss = 0.9854
+Epoch 018: Train Loss = 0.0404, Val Loss = 1.0045
+Epoch 019: Train Loss = 0.0403, Val Loss = 1.3573
+Epoch 020: Train Loss = 0.1711, Val Loss = 1.1757
+Epoch 021: Train Loss = 0.0677, Val Loss = 1.0073
+Early stopping at epoch 21
+Run 1 best loss: 0.9638
+Mean Loss: 0.9638, Std: 0.0000
+
+Ratio: (0.4, 0.3, 0.3)
+Epoch 001: Train Loss = 0.6657, Val Loss = 1.2643
+Epoch 002: Train Loss = 0.3615, Val Loss = 1.1233
+Epoch 003: Train Loss = 0.2669, Val Loss = 1.1101
+Epoch 004: Train Loss = 0.1856, Val Loss = 1.0809
+Epoch 005: Train Loss = 0.1338, Val Loss = 1.0994
+Epoch 006: Train Loss = 0.2549, Val Loss = 1.3431
+Epoch 007: Train Loss = 0.1636, Val Loss = 1.0451
+Epoch 008: Train Loss = 0.1022, Val Loss = 1.0335
+Epoch 009: Train Loss = 0.0852, Val Loss = 1.0283
+Epoch 010: Train Loss = 0.0755, Val Loss = 0.9911
+Epoch 011: Train Loss = 0.0824, Val Loss = 0.9998
+Epoch 012: Train Loss = 0.0796, Val Loss = 1.0099
+Epoch 013: Train Loss = 0.0743, Val Loss = 1.0040
+Epoch 014: Train Loss = 0.0691, Val Loss = 1.0126
+Epoch 015: Train Loss = 0.0680, Val Loss = 1.0054
+Early stopping at epoch 15
+Run 1 best loss: 0.9911
+Mean Loss: 0.9911, Std: 0.0000
+
+Ratio: (0.3, 0.3, 0.4)
+Epoch 001: Train Loss = 0.6608, Val Loss = 1.3039
+Epoch 002: Train Loss = 0.3670, Val Loss = 1.2273
+Epoch 003: Train Loss = 0.3198, Val Loss = 1.1957
+Epoch 004: Train Loss = 0.2896, Val Loss = 1.1934
+Epoch 005: Train Loss = 0.2248, Val Loss = 1.2334
+Epoch 006: Train Loss = 0.1729, Val Loss = 1.0452
+Epoch 007: Train Loss = 0.1338, Val Loss = 1.0076
+Epoch 008: Train Loss = 0.1147, Val Loss = 1.0168
+Epoch 009: Train Loss = 0.1005, Val Loss = 0.9659
+Epoch 010: Train Loss = 0.0895, Val Loss = 1.0268
+Epoch 011: Train Loss = 0.0821, Val Loss = 1.0253
+Epoch 012: Train Loss = 0.0949, Val Loss = 1.9138
+Epoch 013: Train Loss = 0.0993, Val Loss = 0.9437
+Epoch 014: Train Loss = 0.0716, Val Loss = 0.9327
+Epoch 015: Train Loss = 0.0726, Val Loss = 0.9584
+Epoch 016: Train Loss = 0.0831, Val Loss = 0.9596
+Epoch 017: Train Loss = 0.0656, Val Loss = 0.9459
+Epoch 018: Train Loss = 0.0572, Val Loss = 0.9686
+Epoch 019: Train Loss = 0.0554, Val Loss = 0.9078
+Epoch 020: Train Loss = 0.0535, Val Loss = 0.9046
+Epoch 021: Train Loss = 0.0557, Val Loss = 0.9452
+Epoch 022: Train Loss = 0.0597, Val Loss = 0.9360
+Epoch 023: Train Loss = 0.0532, Val Loss = 0.9475
+Epoch 024: Train Loss = 0.0554, Val Loss = 0.9480
+Epoch 025: Train Loss = 0.2141, Val Loss = 0.9846
+Early stopping at epoch 25
+Run 1 best loss: 0.9046
+Mean Loss: 0.9046, Std: 0.0000
+
+Ratio: (0.2, 0.4, 0.4)
+Epoch 001: Train Loss = 0.8035, Val Loss = 1.3094
+Epoch 002: Train Loss = 0.4852, Val Loss = 1.3023
+Epoch 003: Train Loss = 0.4020, Val Loss = 1.1358
+Epoch 004: Train Loss = 0.2884, Val Loss = 1.0122
+Epoch 005: Train Loss = 0.3291, Val Loss = 1.0766
+Epoch 006: Train Loss = 0.2489, Val Loss = 0.9654
+Epoch 007: Train Loss = 0.1820, Val Loss = 0.9152
+Epoch 008: Train Loss = 0.1569, Val Loss = 1.0176
+Epoch 009: Train Loss = 0.1291, Val Loss = 1.0291
+Epoch 010: Train Loss = 0.1060, Val Loss = 0.9212
+Epoch 011: Train Loss = 0.0938, Val Loss = 0.9934
+Epoch 012: Train Loss = 0.0936, Val Loss = 0.9323
+Early stopping at epoch 12
+Run 1 best loss: 0.9152
+Mean Loss: 0.9152, Std: 0.0000
+
+Ratio: (0.33, 0.33, 0.34)
+Epoch 001: Train Loss = 0.6729, Val Loss = 1.4068
+Epoch 002: Train Loss = 0.4226, Val Loss = 1.2669
+Epoch 003: Train Loss = 0.2895, Val Loss = 1.6782
+Epoch 004: Train Loss = 0.2870, Val Loss = 1.1316
+Epoch 005: Train Loss = 0.2450, Val Loss = 1.0982
+Epoch 006: Train Loss = 0.1666, Val Loss = 1.0950
+Epoch 007: Train Loss = 0.1658, Val Loss = 1.0725
+Epoch 008: Train Loss = 0.1129, Val Loss = 1.0315
+Epoch 009: Train Loss = 0.1647, Val Loss = 1.1094
+Epoch 010: Train Loss = 0.1167, Val Loss = 1.0402
+Epoch 011: Train Loss = 0.1099, Val Loss = 0.9579
+Epoch 012: Train Loss = 0.0903, Val Loss = 1.0229
+Epoch 013: Train Loss = 0.0785, Val Loss = 1.0073
+Epoch 014: Train Loss = 0.0669, Val Loss = 0.9958
+Epoch 015: Train Loss = 0.0630, Val Loss = 0.9899
+Epoch 016: Train Loss = 0.0624, Val Loss = 1.0048
+Early stopping at epoch 16
+Run 1 best loss: 0.9579
+Mean Loss: 0.9579, Std: 0.0000
+
+Ratio: (0.6, 0.2, 0.2)
+Epoch 001: Train Loss = 0.5443, Val Loss = 1.4781
+Epoch 002: Train Loss = 0.3331, Val Loss = 1.3017
+Epoch 003: Train Loss = 0.2023, Val Loss = 1.1304
+Epoch 004: Train Loss = 0.1312, Val Loss = 1.0759
+Epoch 005: Train Loss = 0.0879, Val Loss = 1.2063
+Epoch 006: Train Loss = 0.1395, Val Loss = 1.0878
+Epoch 007: Train Loss = 0.0750, Val Loss = 1.0624
+Epoch 008: Train Loss = 0.0600, Val Loss = 1.0139
+Epoch 009: Train Loss = 0.0567, Val Loss = 1.0826
+Epoch 010: Train Loss = 0.0545, Val Loss = 1.0290
+Epoch 011: Train Loss = 0.0541, Val Loss = 1.0387
+Epoch 012: Train Loss = 0.0454, Val Loss = 0.9524
+Epoch 013: Train Loss = 0.0458, Val Loss = 0.9705
+Epoch 014: Train Loss = 0.0419, Val Loss = 0.9704
+Epoch 015: Train Loss = 0.0445, Val Loss = 1.0145
+Epoch 016: Train Loss = 0.0441, Val Loss = 0.9383
+Epoch 017: Train Loss = 0.0423, Val Loss = 1.0045
+Epoch 018: Train Loss = 0.0396, Val Loss = 0.9780
+Epoch 019: Train Loss = 0.0388, Val Loss = 0.9661
+Epoch 020: Train Loss = 0.0389, Val Loss = 0.9613
+Epoch 021: Train Loss = 0.0385, Val Loss = 0.9580
+Early stopping at epoch 21
+Run 1 best loss: 0.9383
+Mean Loss: 0.9383, Std: 0.0000
